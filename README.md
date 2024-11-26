@@ -1,2 +1,3 @@
 # SQL
-A repository with all my SQL programs and projects
+Here you'll find all my SQL programs and projects that I have done over the years
+
